@@ -16,4 +16,5 @@ Is the asymptotic complexity of tail-recursive Fibonacci different from the
 non-tail-recursive version? Why, or why not? Add your answer, including your
 reasoning, to this markdown file.  
 
-**QUESTION** Never mind, I have no questions now.
+Please note that I will add the test cases and runtime analysis later. At the moment,  
+all I've done is create/implement the two separate Fibonacci functions
