@@ -24,4 +24,4 @@ function nonRecursiveFib(x){
 		return (nonRecursiveFib(x-1)+nonRecursiveFib(x-2))
 }
 
-console.log(nonRecursiveFib(7))
+//console.log(nonRecursiveFib(7))
